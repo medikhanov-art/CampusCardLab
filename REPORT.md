@@ -1,7 +1,7 @@
 # Campus Card Lab
 
-**Name:** Ада Лавлейс *(примерные данные — замените на свои)*  
-**Student ID:** 2026001 *(примерный номер — замените на свой)*
+**Name:** Medikhanov Arman **  
+**Student ID:** 1712 **
 
 ## Exercises
 
