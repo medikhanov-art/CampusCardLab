@@ -1,0 +1,48 @@
+# Gradle and Kotlin build output
+.gradle/
+.gradle-user-home/
+.kotlin/
+**/build/
+out/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.fleet/
+
+# Local machine configuration
+local.properties
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+
+# Native build output
+.externalNativeBuild/
+.cxx/
+captures/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary emulator diagnostics (project root)
+/app-visible.png
+/button-test.xml
+/current-switch.xml
+/diag.png
+/diag.xml
+/foreground.png
+/launch-final.png
+/map-live.xml
+/map-ready.png
+/now.xml
+/qr-live.xml
+/ready.png
+/ready.xml
+/software-mode.png
+/status2.png
+/switch-test.xml
+/toggle-live.xml
+/update-status.png
