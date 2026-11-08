@@ -49,7 +49,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             CampusCardLabTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    CampusCardScreen(modifier = Modifier.padding(innerPadding))
+                    Greeting(modifier = Modifier.padding(innerPadding))
                 }
             }
         }
