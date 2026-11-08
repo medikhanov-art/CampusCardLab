@@ -27,4 +27,4 @@ Display words as rows of letter boxes. Odd-numbered rows use the theme's standar
 
 ## Screenshot
 
-Capture a screenshot of the running app in the Android emulator and add it to this branch for submission. (A real emulator screenshot has not yet been captured.)
+The emulator screenshot is included in this branch: [alternating-rows-screenshot.png](alternating-rows-screenshot.png). It shows the completed alternating-row layout for submission.
